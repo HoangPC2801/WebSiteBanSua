@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CongNghePhanMem
 Cách chạy setup project:
 B1: Download toàn bộ nhánh main về.
@@ -20,3 +21,6 @@ B4:
 
 =======
 >>>>>>> huybv147
+=======
+# WebBanSua
+>>>>>>> 2506602c175750bbc5c398451ceba8d154d70e67
